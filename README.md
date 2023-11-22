@@ -1,7 +1,7 @@
 # 이력서
 
 ## 소개
-<img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/홍승희.jpg" alt="프로필이미지" width="103" height="132">
+<img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/홍승희.jpg" alt="프로필이미지" width="200" height="270">
 
 - 이름: 홍승희
 - 취미: **홈코딩**, 여행, 카페, 노래방
