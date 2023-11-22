@@ -22,15 +22,7 @@
 ## Git Ladders
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HongSeungHee25&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongSeungHee25&layout=compact&theme=buefy)
-
-
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=HongSeungHee25&theme=buefy&show_icons=true" width="42%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongSeungHee25&exclude_repo=dkssud8150.github.io&layout=compact&theme=buefy" />
-</a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HongSeungHee25&theme=dracula)](https://github.com/HongSeungHee25/github-readme-activity-graph)
 
 ## 회사경력
 - [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
