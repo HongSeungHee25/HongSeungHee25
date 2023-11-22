@@ -1,8 +1,4 @@
 # 이력서
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![contributor](https://img.shields.io/github/contributors/JSpiner/RESUME.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
-![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
 
 ## 소개
 <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/홍승희.jpg" alt="프로필이미지" width="103" height="132">
@@ -51,42 +47,30 @@
 
 ## 프로젝트 이력
 
-<img src='./images/TEAM.png' width="80"  style="border-radius: 15%; overflow: hidden; box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);" />
+<img src='./images/TEAM.png' width="100" height="100" style="border-radius: 15%; overflow: hidden; box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);" />
 
 ### 팀워크의 혁신 - TeamPlus
-- 소개: 합법적으로, 공짜로, 누구나 웹툰을 볼 수 있도록 도와주는 서비스
-- 사이드 프로젝트로 혼자 서버/백엔드 개발
-- 기간 : 2019.01 ~ 2019.12
-- 매출 : 8,709,411원
+- 소개: TEAM PLUS(팀 플러스)는 혁신적인 팀 협업 플랫폼으로서, 프로젝트 작업 시 팀원 간의 협력을 위한 플랫폼
+- TeamPlus 주요 기능 : 회원 관리 및 SNS 로그인, TeamProject 관리, Team R&R 관리, 개인 TODO 관리
+- 기간 : 2023.09.27-2023.현재
+- 관련기술 : Java, JavaScript, HTML, CSS, SQL, Gson, Kakao API, Google API, Naver API, JQuery, RESTful API, Simple Java Mail, Gradle
+- 성과 : 2023 KIT 해커톤 제 1회 SW 및 AI 융합 공모전(참가 예정)
 
-<img src='./images/검색로고.png' width="80"  style="border-radius: 15%; overflow: hidden; box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);" />
+<img src='./images/검색로고.png' width="100" height="100" style="border-radius: 15%; overflow: hidden; box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);" />
 
 ### SeekSeat - inGangnam
-- 소개: 1등 전자책 서비스
-- 기간: 2018.09 ~ 2020.09
-- 프로젝트 : 리디페이퍼(3세대) 앱 개발, 웹툰/웹소설용 기능 추가, 유지보수
+- 소개: 강남 인근 레스토랑의 체계적이고 편리한 예약을 제공하는 웹사이트
+- SeekSeat 주요 기능 : 회원 관리, 강남 인근 음식점 검색, 사업자회원 매장 등록 및 메뉴 등록, 일반회원 맛집 공유 커뮤니티
+- 기간: 2023.08.25-2023.09.19
+- 관련기술 : Java, JavaScript, JSP, CSS, SQL, Gson, Kakao API, Simple Java Mail, Maven
 
-<img src='./images/SOULCAR.png' width="80" style="border-radius: 15%; overflow: hidden; box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);" />
+<img src='./images/SOULCAR.png' width="100" height="100" style="border-radius: 15%; overflow: hidden; box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);" />
 
 ### SOULCAR
-- 소개: 경매로 내차팔기 서비스
-- 기간: 2017.07 ~ 2018.09
-- 역할: 유지보수, 신규기능 개발
-- 관련기술: MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
-
-## 수상 경력
-취미로 해커톤을 종종 나가곤 합니다. <br/>
-**프로젝트에 도입해볼까?** 하는 신기술들을 <br/>
-해커톤에서 간단하게 적용해보고 프로젝트에 도입해보곤 합니다.
-
-### KakaoMobilityXGCP Cloud Hero - 사내 3위
-- 수상 날짜 : 2023년 05월
- 
-#### 세종대학교 메이커톤 2020 - 우수상
-- 수상 날짜 : 2020년 12
-
-#### 서울 스타트업 윅엔드 2019 - Creativity(2위)
-- 수상 날짜 : 2019년 11월
+- 소개: 보다 편리한 렌트 서비스 제공 GUI
+- SOULCAR 주요 기능 : 회원 관리, 차량 등급별 확인 및 실시간 예약 , 관리자 차량 등록 및 차량 검사 등록
+- 기간: 2023.07.03-2023.07.21
+- 관련기술: Java, Swing, SQL
 
 ----
 
