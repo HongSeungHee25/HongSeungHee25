@@ -12,6 +12,8 @@
 ```
 개발자로서의 마음가짐은 새로운 기술과 도구에 대한 열린 태도를 유지하고, 실패를 두려워하지 않는 것입니다.
 ```
+<img src="https://ghchart.rshah.org/HongSeungHee25" alt="깃허브" />
+
 ## Git Ladders
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HongSeungHee25&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongSeungHee25&layout=compact&theme=buefy)
