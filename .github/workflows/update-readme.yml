@@ -3,7 +3,7 @@ name: Update GitHub Profile README
 on:
   push:
     branches:
-      - master  
+      - master
 
 jobs:
   update-readme:
@@ -16,5 +16,12 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '14'  
+          node-version: '14'
 
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "seung0476@gmail.com"
+          git config --global user.name "HongSeungHee25"
+          git add README.md
+          git commit -m "Automatically update GitHub Stats in README"
+          git push
