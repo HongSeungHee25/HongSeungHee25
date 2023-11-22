@@ -20,9 +20,8 @@
 <img src="https://ghchart.rshah.org/HongSeungHee25" alt="깃허브" />
 
 ## Git Ladders
-<img src="https://github-readme-stats.vercel.app/api?username=HongSeungHee25&show_icons=true&theme=buefy" alt="Anurag's github stats" width="400" height="200">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongSeungHee25&layout=compact&theme=buefy" alt="Top Langs" width="400" height="200">
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HongSeungHee25&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongSeungHee25&layout=compact&theme=buefy)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HongSeungHee25&theme=dracula)](https://github.com/HongSeungHee25/github-readme-activity-graph)
 
 ## 회사경력
