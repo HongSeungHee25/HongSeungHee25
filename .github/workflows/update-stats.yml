@@ -1,0 +1,33 @@
+name: Update GitHub Stats on Commit
+
+on:
+  push:
+    branches:
+      - master  # master 브랜치에 push할 때 실행됨
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install GitHub Profile Readme Stats
+        run: npm install -g github-profile-readme-generator
+
+      - name: Generate GitHub Stats
+        run: |
+          github-profile-readme-generator --username HongSeungHee25 --show-icons=true --theme=buefy
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "seung0476@gmail.com"
+          git config --global user.name "HongSeungHee25"
+          git add README.md
+          git commit -m "Automatically update GitHub Stats in README"
+          git push
