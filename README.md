@@ -5,24 +5,32 @@
 ![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
 
 ## 소개
-![프로필이미지](https://github.com/HongSeungHee25/My-RESUME/raw/master/images/홍승희.jpg)
+<img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/홍승희.jpg" alt="프로필이미지" width="103" height="132">
+
 - 이름: 홍승희
-- 군필여부: 병역특례로 복무완료
-- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑
-- Email: jspiner@naver.com
-- GitHub: [github.com/jspiner](https://github.com/jspiner)
-- LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
+- 취미: **홈코딩**, 여행, 카페, 노래방
+- Email: seung0476@gmail.com
+- GitHub: [github.com/HongSeungHee25](https://github.com/HongSeungHee25)
+- portfolio: [https://hongseunghee25.github.io](https://hongseunghee25.github.io)
 
 ```
-엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
+개발자로서의 마음가짐은 새로운 기술과 도구에 대한 열린 태도를 유지하고, 실패를 두려워하지 않는 것입니다.
 ```
 
-![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
+<img src="https://ghchart.rshah.org/HongSeungHee25" alt="깃허브" />
 
-## Enginnering Ladders
-[Engineering Ladders](https://medium.com/@ryanparkdev/engineering-ladders%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%B1%EC%9E%A5%EB%B0%A9%ED%96%A5-%EC%B0%BE%EA%B8%B0-c52112b5c34f)로 표현해본 제 스킬은 이렇습니다.
+## Git Ladders
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HongSeungHee25&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongSeungHee25&layout=compact&theme=buefy)
 
-<img src = "https://github.com/JSpiner/RESUME/raw/master/images/engineering_ladders.png" width="480" />
+
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=HongSeungHee25&theme=buefy&show_icons=true" width="42%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongSeungHee25&exclude_repo=dkssud8150.github.io&layout=compact&theme=buefy" />
+</a>
 
 ## 회사경력
 - [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
