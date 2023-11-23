@@ -15,7 +15,7 @@
 <img src="https://ghchart.rshah.org/HongSeungHee25" alt="깃허브" />
 
 ## Git Ladders
-![HongSeungHee25's github stats](https://github-readme-stats.vercel.app/api?username=HongSeungHee25&count_private=true&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongSeungHee25&count_private=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongSeungHee25&count_private=true&layout=compact&theme=buefy)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HongSeungHee25&count_private=true&theme=dracula)](https://github.com/HongSeungHee25/github-readme-activity-graph)
 
