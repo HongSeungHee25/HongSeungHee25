@@ -6,6 +6,7 @@
 - 이름: 홍승희
 - 취미: **홈코딩**, 여행, 카페, 노래방
 - Email: seung0476@gmail.com
+- 자격증 : **정보처리산업기사**
 - GitHub: [github.com/HongSeungHee25](https://github.com/HongSeungHee25)
 - portfolio: [https://hongseunghee25.github.io](https://hongseunghee25.github.io)
 
