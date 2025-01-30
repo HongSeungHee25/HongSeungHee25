@@ -43,7 +43,7 @@
       <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/e9pay.png" alt="e9pay 로고" width="180">
     </td>
     <td>
-      <h2>㈜이나인페이 | 전산개발팀 | 매니저 (2024.01 ~ 2025.02)</h2> 
+      <h3>㈜이나인페이 | 전산개발팀 | 매니저 (2024.01 ~ 2025.02)</h3> 
       <ul>
         <li><b>트래블포트 API 기반 항공권 예약, 발권, 환불, 변경 시스템 개발</b> (응답 속도 30% 개선)</li>
         <li><b>ZA(스카이앙코르) 항공사 시스템 구축 및 실시간 데이터 제공</b> → 월간 예약 건수 20% 증가</li>
