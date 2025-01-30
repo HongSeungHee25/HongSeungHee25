@@ -1,84 +1,98 @@
-# 이력서
+# 📝 이력서
 
-## 소개
-<img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/홍승희.jpg" alt="프로필이미지" width="200" />
+## **👤 소개** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HongSeungHee25)](https://github.com/HongSeungHee25)
+<table>
+  <tr>
+    <td width="180px">
+      <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/홍승희.jpg" alt="프로필 이미지" width="180" style="border-radius: 50%;">
+    </td>
+    <td>
+      <h2>홍승희 | Backend Developer</h2>
+      <p>📧 <b>Email:</b> <a href="mailto:seung0476@gmail.com">seung0476@gmail.com</a></p>
+      <p>📂 <b>Portfolio:</b> <a href="https://hongseunghee25.github.io" target="_blank">hongseunghee25.github.io</a></p>
+      <p>🐱 <b>GitHub:</b> <a href="https://github.com/HongSeungHee25" target="_blank">github.com/HongSeungHee25</a></p>
+      <p>📄 <b>Resume:</b> <a href="https://github.com/HongSeungHee25/My-RESUME/RESUME.pdf" target="_blank">이력서 다운로드 (PDF)</a></p>
+    </td>
+  </tr>
+</table>
 
-- 이름: 홍승희
-- 취미: **홈코딩**, 여행, 카페, 노래방
-- Email: seung0476@gmail.com
-- 자격증 : **정보처리산업기사**
-- GitHub: [github.com/HongSeungHee25](https://github.com/HongSeungHee25)
-- portfolio: [https://hongseunghee25.github.io](https://hongseunghee25.github.io)
+---
 
-```
-개발자로서의 마음가짐은 새로운 기술과 도구에 대한 열린 태도를 유지하고, 실패를 두려워하지 않는 것입니다.
-```
-<img src="https://ghchart.rshah.org/HongSeungHee25" alt="깃허브" />
+## **🚀 About Me**
+안녕하세요! 최신 기술을 익히고 성장하는 것을 좋아하는 **백엔드 개발자 홍승희**입니다.  
+트래블포트 API 기반 항공권 예약 시스템 개발, Flask 웹 서비스 구축 등의 경험을 통해 실무 역량을 키웠습니다.  
+**대규모 트래픽을 처리하는 백엔드 개발**과 **API 최적화**에 관심이 많으며, **안정적인 서비스 운영을 목표**로 합니다.
 
-## Git Ladders
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongSeungHee25&count_private=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongSeungHee25&count_private=true&layout=compact&theme=buefy)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HongSeungHee25&count_private=true&theme=dracula)](https://github.com/HongSeungHee25/github-readme-activity-graph)
+---
 
-## 교육 활동
-- ㈜코리아IT아카데미 - (과정평가형)정보처리산업기사 취득과정A(2023.04 ~ 2023.11)
-- SBS아카데미 컴퓨터아트학원(2018.08 ~ 2021.03)
+## **🛠 Skills (기술 스택)**
 
-## 최종 학력
-- 수원전산여자고등학교(2016 ~ 2019)
+| **구분**  | **기술 스택**  |
+|----------|-------------|
+| **Backend** | Java, Spring Boot, Flask, Python, MySQL, Oracle |
+| **Frontend** | HTML, CSS, JavaScript, React |
+| **DevOps** | Nginx, AWS, Cloudtype, Docker, Git |
+| **ETC** | RESTful API, ChatGPT API, Kakao API, 알리고 API, Cafe24 API |
 
-## 사용 기술
-### Backend
-- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
-- <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-- <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-- <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-- <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-- <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+---
 
-### Frontend
-- <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-- <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-- <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+## **📌 경력**
+- **㈜이나인페이 | 전산개발팀 | 매니저** (2024.01 ~ 2025.02)  
+  - **트래블포트 API 기반 항공권 예약, 발권, 환불, 변경 시스템 개발 (응답 속도 30% 개선)**  
+  - **ZA(스카이앙코르) 항공사 시스템 구축 및 실시간 데이터 제공 → 월간 예약 건수 20% 증가**  
+  - **트래블포트 API 최신 버전(Release 20.2, v50) 업그레이드 및 성능 최적화**  
+  - **카드 결제 시스템 추가 (결제 옵션 다양화 및 사용자 편의성 향상)**  
 
-### 그 외 기타
-- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-- <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-- <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
-- <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+---
 
-## 프로젝트 이력
+## **📚 학력**
+- **한국방송통신대학교 | 컴퓨터과학과 (2025.03 ~ 현재 재학 중)**
+- **수원전산여자고등학교 (2016 ~ 2019 졸업)**
 
-<img src='./images/TEAM.png' width="100" height="100" style="border-radius: 15%; overflow: hidden; box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);" />
+---
 
-### 팀워크의 혁신 - TeamPlus
-- 소개: TEAM PLUS(팀 플러스)는 혁신적인 팀 협업 플랫폼으로서, 프로젝트 작업 시 팀원 간의 협력을 위한 플랫폼
-- TeamPlus 주요 기능 : 회원 관리 및 SNS 로그인, TeamProject 관리, Team R&R 관리, 개인 TODO 관리
-- 기간 : 2023.09.27-2023.현재
-- 관련기술 : Java, JavaScript, HTML, CSS, SQL, Gson, Kakao API, Google API, Naver API, JQuery, RESTful API, Simple Java Mail, Gradle
-- 성과 : 2023 KIT 해커톤 제 1회 SW 및 AI 융합 공모전(참가 예정)
+## **📚 교육 과정**
+- **㈜코리아IT아카데미 | 정보처리산업기사 과정 (2023.04 ~ 2023.11)**
 
-<img src='./images/검색로고.png' width="100" height="100" style="border-radius: 15%; overflow: hidden; box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);" />
+---
 
-### SeekSeat - inGangnam
-- 소개: 강남 인근 레스토랑의 체계적이고 편리한 예약을 제공하는 웹사이트
-- SeekSeat 주요 기능 : 회원 관리, 강남 인근 음식점 검색, 사업자회원 매장 등록 및 메뉴 등록, 일반회원 맛집 공유 커뮤니티
-- 기간: 2023.08.25-2023.09.19
-- 관련기술 : Java, JavaScript, JSP, CSS, SQL, Gson, Kakao API, Simple Java Mail, Maven
+## **💼 프로젝트 이력**
 
-<img src='./images/SOULCAR.png' width="100" height="100" style="border-radius: 15%; overflow: hidden; box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);" />
+### 📌 Fately (개인 프로젝트)
+📌 **AI 사주, AI 페이스 진단, 밸런스 게임 서비스**
+- **🛠 주요 기술:** React, JavaScript, HTML, CSS, Java, MySQL, ChatGPT API, Azure API, Cloudtype
+- **⏳ 기간:** 2024.06 ~ 2024.08
+- **🌐 배포:** [Fately](https://fately.co.kr/)  
+- **🎯 주요 기능:**  
+  - AI 기반 사주 분석 (ChatGPT API)  
+  - AI 페이스 진단 (Azure Face API)  
+  - 실시간 밸런스 게임 (WebSocket)  
 
-### SOULCAR
-- 소개: 보다 편리한 렌트 서비스 제공 GUI
-- SOULCAR 주요 기능 : 회원 관리, 차량 등급별 확인 및 실시간 예약 , 관리자 차량 등록 및 차량 검사 등록
-- 기간: 2023.07.03-2023.07.21
-- 관련기술: Java, Swing, SQL
+---
 
-----
+### **📌 OwnerFlow**
+📌 **회원이 작업 요청을 하고, 관리자가 진행 상황을 관리하는 플랫폼**  
+- **🛠 주요 기술:** Flask, MySQL, Cloudtype, Cafe24 API, 알리고  
+- **⏳ 기간:** 2024.10 ~ 2025.01  
+- **🌐 배포:** [OwnerFlow](https://ownerflow-admin.com)  
 
-여기까지 읽어주셔서 감사합니다. <br/>
-부족한 부분이나 더 궁금하신 내용이 있다면 seung0476@gmail.com 으로 연락주세요.<br/>
-감사합니다.
+---
+
+### **📌 TeamPlus (팀 협업 플랫폼)**
+📌 **팀원 간 협업을 위한 프로젝트 관리 시스템**  
+- **🛠 주요 기술:** Java, JavaScript, Kakao API, REST API  
+- **⏳ 기간:** 2023.09 ~ 현재  
+- **🏆 성과:** 2023 KIT 해커톤 참가 예정  
+
+---
+
+### **📌 SeekSeat - inGangnam**
+📌 **강남 인근 레스토랑 예약 서비스**  
+- **🛠 주요 기술:** Java, JSP, Kakao API, SQL  
+- **⏳ 기간:** 2023.08 ~ 2023.09  
+
+---
+
+### **📌 감사합니다!**
+📫 **문의 사항이 있다면 이메일로 연락 주세요!**  
+📩 **seung0476@gmail.com**  
