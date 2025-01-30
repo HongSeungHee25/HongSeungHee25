@@ -39,7 +39,7 @@
 ## **📌 경력**
 <table>
   <tr>
-    <td width="180px">
+    <td width="150px">
       <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/e9pay.png" alt="e9pay 로고" width="180">
     </td>
     <td>
