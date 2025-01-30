@@ -39,8 +39,8 @@
 ## **📌 경력**
 <table>
   <tr>
-    <td width="50px">
-      <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/e9pay.png" alt="e9pay 로고" width="50">
+    <td width="180px">
+      <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/e9pay.png" alt="e9pay 로고" width="180">
     </td>
     <td>
       <b>㈜이나인페이 | 전산개발팀 | 매니저</b> (2024.01 ~ 2025.02)  
