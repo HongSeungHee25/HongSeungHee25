@@ -19,31 +19,22 @@
 ---
 
 ## **🚀 About Me**
-안녕하세요! 최신 기술을 익히고 성장하는 것을 좋아하는 **백엔드 개발자 홍승희**입니다.  
-트래블포트 API 기반 항공권 예약 시스템 개발, Flask 웹 서비스 구축 등의 경험을 통해 실무 역량을 키웠습니다.  
-**대규모 트래픽을 처리하는 백엔드 개발**과 **API 최적화**에 관심이 많으며, **안정적인 서비스 운영을 목표**로 합니다.
-
----
-
-## **🛠 Skills (기술 스택)**
-
-| **구분**  | **기술 스택**  |
-|----------|-------------|
-| **Backend** | Java, Spring Boot, Flask, Python, MySQL, Oracle |
-| **Frontend** | HTML, CSS, JavaScript, React |
-| **DevOps** | Nginx, AWS, Cloudtype, Docker, Git |
-| **ETC** | RESTful API, ChatGPT API, Kakao API, 알리고 API, Cafe24 API |
+안녕하세요! **백엔드 개발자 홍승희**입니다.  
+트래블포트 API를 활용한 **항공권 예약, 결제 시스템 개발 및 성능 최적화** 경험을 보유하고 있으며,  
+현재 **대규모 트래픽을 처리하는 백엔드 시스템 설계 및 안정적인 서비스 운영**을 목표로 하고 있으며,  
+**API 성능 최적화와 효율적인 데이터 처리**를 통해 **안정적인 고성능 서비스를 구축하는 것**에 집중하고 있습니다.  
+끊임없이 최신 기술을 학습하며, **더 나은 서비스를 만들기 위해 도전하는 개발자**가 되고자 합니다.
 
 ---
 
 ## **📌 경력**
 <table>
   <tr>
-    <td width="180px">
-      <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/e9pay.png" alt="e9pay 로고" width="180">
+    <td width="130px">
+      <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/e9pay.png" alt="e9pay 로고" width="120">
     </td>
     <td>
-      <h4>㈜이나인페이 | 전산개발팀 | 매니저 (2024.01 ~ 2025.02)</h4> 
+      <h3>㈜이나인페이 | 전산개발팀 | 매니저 (2024.01 ~ 2025.02)</h3> 
       <ul>
         <li><b>트래블포트 API 기반 항공권 예약, 발권, 환불, 변경 시스템 개발</b> (응답 속도 30% 개선)</li>
         <li><b>ZA(스카이앙코르) 항공사 시스템 구축 및 실시간 데이터 제공</b> → 월간 예약 건수 20% 증가</li>
@@ -56,30 +47,7 @@
 
 ---
 
-## **📚 학력**
-- **한국방송통신대학교 | 컴퓨터과학과 (2025.03 ~ 현재 재학 중)**
-- **수원전산여자고등학교 (2016 ~ 2019 졸업)**
-
----
-
-## **📚 교육 과정**
-- **㈜코리아IT아카데미 | 정보처리산업기사 과정 (2023.04 ~ 2023.11)**
-
----
-
 ## **💼 프로젝트 이력**
-
-### 📌 Fately (개인 프로젝트)
-📌 **AI 사주, AI 페이스 진단, 밸런스 게임 서비스**
-- **🛠 주요 기술:** React, JavaScript, HTML, CSS, Java, MySQL, ChatGPT API, Azure API, Cloudtype
-- **⏳ 기간:** 2024.06 ~ 2024.08
-- **🌐 배포:** [Fately](https://fately.co.kr/)  
-- **🎯 주요 기능:**  
-  - AI 기반 사주 분석 (ChatGPT API)  
-  - AI 페이스 진단 (Azure Face API)  
-  - 실시간 밸런스 게임 (WebSocket)  
-
----
 
 ### **📌 OwnerFlow**
 📌 **회원이 작업 요청을 하고, 관리자가 진행 상황을 관리하는 플랫폼**  
@@ -89,11 +57,23 @@
 
 ---
 
+### 📌 Fately (개인 프로젝트)
+📌 **AI 사주, AI 페이스 진단, 밸런스 게임 서비스**
+- **🛠 주요 기술:** React, JavaScript, HTML, CSS, Java, MySQL, ChatGPT API, Azure API, Cloudtype
+- **⏳ 기간:** 2024.06 ~ 2024.09
+- **🌐 배포:** [Fately](https://fately.co.kr/)  
+- **🎯 주요 기능:**  
+  - AI 기반 사주 분석 (ChatGPT API)  
+  - AI 페이스 진단 (Azure Face API)  
+  - 실시간 밸런스 게임 (WebSocket)  
+
+---
+
 ### **📌 TeamPlus (팀 협업 플랫폼)**
 📌 **팀원 간 협업을 위한 프로젝트 관리 시스템**  
 - **🛠 주요 기술:** Java, JavaScript, Kakao API, REST API  
-- **⏳ 기간:** 2023.09 ~ 현재  
-- **🏆 성과:** 2023 KIT 해커톤 참가 예정  
+- **⏳ 기간:** 2023.09 ~ 2023.11  
+- **🏆 성과:** 2023 KIT 해커톤 참가  
 
 ---
 
@@ -101,6 +81,28 @@
 📌 **강남 인근 레스토랑 예약 서비스**  
 - **🛠 주요 기술:** Java, JSP, Kakao API, SQL  
 - **⏳ 기간:** 2023.08 ~ 2023.09  
+
+---
+
+## **🛠 Skills (기술 스택)**
+
+| **구분**  | **기술 스택**  |
+|----------|-------------|
+| **Backend** | Java, Spring Boot, Flask, Python, MySQL, Oracle |
+| **Frontend** | HTML, CSS, JavaScript, React |
+| **DevOps** | AWS, Cloudtype, Docker, Git |
+| **ETC** | RESTful API, ChatGPT API, Kakao API, 알리고 API, Cafe24 API |
+
+---
+
+## **📚 학력**
+- **한국방송통신대학교 | 컴퓨터과학과 (2025.03 ~ 현재 재학 중)**
+- **수원전산여자고등학교 (2016 ~ 2019 졸업)**
+
+---
+
+## **📚 교육 과정**
+- **㈜코리아IT아카데미 | 정보처리산업기사 과정 (2023.04 ~ 2023.11)**
 
 ---
 
