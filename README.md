@@ -11,7 +11,7 @@
       <p>📧 <b>Email:</b> <a href="mailto:seung0476@gmail.com">seung0476@gmail.com</a></p>
       <p>📂 <b>Portfolio:</b> <a href="https://hongseunghee25.github.io" target="_blank">hongseunghee25.github.io</a></p>
       <p>🐱 <b>GitHub:</b> <a href="https://github.com/HongSeungHee25" target="_blank">github.com/HongSeungHee25</a></p>
-     <p>📄 <b>Resume:</b> <a href="https://github.com/HongSeungHee25/My-RESUME/blob/main/README.pdf?raw=true" target="_blank">이력서 다운로드 (PDF)</a></p>
+     <p>📄 <b>Resume:</b> <a href="https://github.com/HongSeungHee25/My-RESUME/blob/master/README.pdf?raw=true" target="_blank">이력서 다운로드 (PDF)</a></p>
     </td>
   </tr>
 </table>
@@ -37,11 +37,22 @@
 ---
 
 ## **📌 경력**
-- **㈜이나인페이 | 전산개발팀 | 매니저** (2024.01 ~ 2025.02)  
-  - **트래블포트 API 기반 항공권 예약, 발권, 환불, 변경 시스템 개발 (응답 속도 30% 개선)**  
-  - **ZA(스카이앙코르) 항공사 시스템 구축 및 실시간 데이터 제공 → 월간 예약 건수 20% 증가**  
-  - **트래블포트 API 최신 버전(Release 20.2, v50) 업그레이드 및 성능 최적화**  
-  - **카드 결제 시스템 추가 (결제 옵션 다양화 및 사용자 편의성 향상)**  
+<table>
+  <tr>
+    <td width="50px">
+      <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/e9pay.png" alt="e9pay 로고" width="50">
+    </td>
+    <td>
+      <b>㈜이나인페이 | 전산개발팀 | 매니저</b> (2024.01 ~ 2025.02)  
+      <ul>
+        <li><b>트래블포트 API 기반 항공권 예약, 발권, 환불, 변경 시스템 개발</b> (응답 속도 30% 개선)</li>
+        <li><b>ZA(스카이앙코르) 항공사 시스템 구축 및 실시간 데이터 제공</b> → 월간 예약 건수 20% 증가</li>
+        <li><b>트래블포트 API 최신 버전(Release 20.2, v50) 업그레이드 및 성능 최적화</b></li>
+        <li><b>카드 결제 시스템 추가</b> (결제 옵션 다양화 및 사용자 편의성 향상)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
