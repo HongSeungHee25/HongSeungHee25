@@ -3,7 +3,7 @@
 ## **👤 소개** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HongSeungHee25)](https://github.com/HongSeungHee25)
 <table>
   <tr>
-    <td width="180px">
+    <td width="300px">
       <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/홍승희.jpg" alt="프로필 이미지" width="180" style="border-radius: 50%;">
     </td>
     <td>
