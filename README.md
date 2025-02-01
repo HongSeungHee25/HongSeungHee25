@@ -65,8 +65,8 @@
 - **주요 기술:** Flask, MySQL, Cloudtype, Cafe24 API, 알리고  
 - **배포:**
 <a href="https://ownerflow-admin.com" target="_blank">
-    <img src="https://img.shields.io/badge/OwnerFlow-%23007BFF.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크">
-  </a>
+    <img src="https://img.shields.io/badge/OwnerFlow-%23007BFF.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
+    
 - **주요 기능:**  
   - Flask 기반 RESTful API 구축 및 MySQL 연동  
   - Cafe24 API 연동 → 앱을 통한 사용자 접근 가능  
@@ -83,8 +83,8 @@
 - **주요 기술:** React, JavaScript, Java, MySQL, ChatGPT API, Azure API  
 - **배포:**
 <a href="https://fately.co.kr/" target="_blank">
-    <img src="https://img.shields.io/badge/Fately-FFA6C9.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크">
-  </a>
+    <img src="https://img.shields.io/badge/Fately-FFA6C9.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
+
 - **주요 기능:**  
   - **AI 기반 사주 분석** (ChatGPT API 활용)  
   - **AI 페이스 진단 서비스** (Azure Face API 적용)  
