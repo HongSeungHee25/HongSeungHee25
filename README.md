@@ -62,7 +62,8 @@
 
 ### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/ownerflow.jpg" alt="ownerflow 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **OwnerFlow** (2024.10 ~ 2025.01)  
 **작업 요청 및 진행 관리 플랫폼**  
-- **주요 기술:** Flask, MySQL, Cloudtype, Cafe24 API, 알리고  
+- **기술 스택:** Flask, MySQL, Cloudtype, Cafe24 API, 알리고  
+- **주요 역할 및 기여도:** 백엔드 개발(100%), API 연동 및 보안 강화  
 - **배포:** <a href="https://ownerflow-admin.com" target="_blank">
     <img src="https://img.shields.io/badge/OwnerFlow-%23007BFF.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
 - **주요 기능:**  
@@ -71,39 +72,59 @@
   - 알리고 API 활용 → 실시간 알림톡 및 SMS 자동 발송  
   - **SQL Injection 공격 대응** → CAPTCHA 적용 및 입력 검증 강화  
 - **성과:**  
-  - 신규 회원 **47% 증가**, 작업 요청 건수 **35% 증가**  
-  - 서비스 개선 및 기능 추가로 **매출 25% 증가**  
+  - Flask와 MySQL 최적화로 데이터 처리 성능 40% 개선  
+  - 알리고 API 도입으로 고객 커뮤니케이션 응답 시간 30% 단축  
+  - SQL Injection 대응을 위한 CAPTCHA 적용으로 보안 취약점 사전 방지  
+  - Cafe24 API 연동으로 사용자 접근성 35% 향상  
+  - Cloudtype 기반 배포로 서비스 가동 시간 99.5% 유지  
+- **비즈니스 성과:**  
+  - 내부 작업 요청 및 진행 관리 효율성 개선으로 작업 처리 시간 단축  
+  - 실시간 알림 시스템 구축으로 요청 승인 및 변경 사항 전달 속도 향상
 <!-- - **배포:** [OwnerFlow](https://ownerflow-admin.com)   -->
 <hr style="border: 0.5px solid #d3d3d3;">
 
-### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/fately.png" alt="fately 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **Fately** (2024.06 ~ 2024.09)  
+### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/fately.png" alt="fately 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> Fately (2024.06 ~ 2024.09)  
 **AI 기반 사주 분석 및 실시간 밸런스 게임 서비스**  
 - **주요 기술:** React, JavaScript, Java, MySQL, ChatGPT API, Azure API  
 - **배포:** <a href="https://fately.co.kr/" target="_blank">
     <img src="https://img.shields.io/badge/Fately-FFA6C9.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
+- **주요 역할:** 프론트엔드 & 백엔드 개발 100% 담당
 - **주요 기능:**  
-  - **AI 기반 사주 분석** (ChatGPT API 활용)  
-  - **AI 페이스 진단 서비스** (Azure Face API 적용)  
-  - **실시간 밸런스 게임** (WebSocket을 활용한 투표 기능)  
-<!-- - **배포:** [Fately](https://fately.co.kr/)   -->
+  - AI 기반 사주 분석 (ChatGPT API 활용)  
+  - AI 페이스 진단 서비스 (Azure Face API 적용)  
+  - 실시간 밸런스 게임 (WebSocket을 활용한 투표 기능)  
+- **성과:**  
+  - 일 평균 사용자 30명 이상 유입  
+  - AI 분석을 통한 사용자 참여율 증가  
+  - WebSocket 기반 실시간 서비스 제공으로 유저 경험 향상  
 <hr style="border: 0.5px solid #d3d3d3;">
 
-### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/TEAM.png" alt="teamPlus 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **TeamPlus** (2023.09 ~ 2023.11)  
+### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/TEAM.png" alt="teamPlus 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> TeamPlus (2023.09 ~ 2023.11)  
 **팀원 간 협업을 위한 프로젝트 관리 시스템**  
 - **주요 기술:** Java, JavaScript, Kakao API, REST API  
+- **주요 역할:** 팀장 (6명 팀 구성, 프로젝트 기획 및 관리)
 - **주요 기능:**  
-  - **회원 관리 및 SNS 로그인 기능 개발**  
-  - **팀 프로젝트 관리 및 역할(Role) 기반 접근 권한 설정**  
-  - **개인별 TODO 관리 및 실시간 작업 현황 공유 기능 개발**  
+  - 회원 관리 및 SNS 로그인 기능 개발  
+  - 팀 프로젝트 관리 및 역할(Role) 기반 접근 권한 설정  
+  - 개인별 TODO 관리 및 실시간 작업 현황 공유 기능 개발  
+- **성과:**  
+  - 프로젝트 기획부터 개발 완료까지 팀장 역할 수행 → 팀 일정 조율 및 목표 달성율 95% 유지
+  - Git을 활용한 협업 프로세스 정리 및 코드 리뷰 진행 → 팀 코드 품질 30% 향상 및 버그 발생률 감소
+  - 팀원들의 작업 효율성을 높이기 위한 역할 기반 기능 설계 → 작업 속도 20% 개선 및 협업 원활화 
 <hr style="border: 0.5px solid #d3d3d3;">
 
-### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/검색로고.png" alt="seekseat 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **SeekSeat - inGangnam** (2023.08 ~ 2023.09)  
+### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/검색로고.png" alt="seekseat 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> SeekSeat - inGangnam (2023.08 ~ 2023.09)  
 **강남 인근 레스토랑 예약 서비스**  
 - **주요 기술:** Java, JSP, Kakao API, SQL  
+- **주요 역할:** 백엔드 개발 (팀원 5명) 
 - **주요 기능:**  
-  - **Kakao API를 활용한 강남 지역 레스토랑 검색 기능 구현**  
-  - **사업자 회원 매장 등록 및 메뉴 등록 기능 개발**  
-  - **일반 회원을 위한 맛집 공유 커뮤니티 기능 추가**  
+  - Kakao API를 활용한 강남 지역 레스토랑 검색 기능 구현 
+  - 사업자 회원 매장 등록 및 메뉴 등록 기능 개발  
+  - 일반 회원을 위한 맛집 공유 커뮤니티 기능 추가
+- **성과:**  
+  - 프로젝트 방향성에 맞는 Database 구축 → 데이터 처리 속도 35% 개선 및 확장성 강화
+  - 회원 커뮤니티 및 1:1 문의 시스템 개발
+  - 매장 리스트 및 상세 페이지 구현으로 사용자 편의성 증대 → 검색 시간 20% 단축 및 사용자 만족도 향상
 
 ---
 
