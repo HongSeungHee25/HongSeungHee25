@@ -7,7 +7,7 @@
       <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/홍승희.jpg" alt="프로필 이미지" width="160" style="border-radius: 50%;">
     </td>
     <td>
-      <h2>홍승희 | Backend Developer</h2>
+      <h2>홍승희 | Software Engineer</h2>
       <p>📧 <b>Email:</b> <a href="mailto:seung0476@gmail.com">seung0476@gmail.com</a></p>
       <p>📂 <b>Portfolio:</b> <a href="https://hongseunghee25.github.io" target="_blank">hongseunghee25.github.io</a></p>
       <p>🐱 <b>GitHub:</b> <a href="https://github.com/HongSeungHee25" target="_blank">github.com/HongSeungHee25</a></p>
@@ -19,42 +19,52 @@
 ---
 
 ## 🚀 About Me  
-안녕하세요! **API 성능 최적화와 문제 해결을 고민하는 백엔드 개발자 홍승희**입니다.  
+"복잡한 문제를 해결하고, 더 나은 시스템을 고민하는 **소프트웨어 엔지니어 홍승희**입니다."  
 
-트래블포트 API를 활용한 **항공권 예약·발권·환불 시스템 개발**과  
-외부 항공사 데이터를 **실시간으로 수집·처리하는 시스템 구축** 경험이 있습니다.  
+항공권 예약 시스템 개발을 하며 **API 성능 최적화**의 중요성을 깨달았고,  
+외부 항공사 데이터를 실시간으로 수집·처리하며 **대량 트래픽을 다루는 경험**을 쌓았습니다.  
 
-**API 성능 최적화, 데이터 처리 효율성, 서비스 안정성**을 중요하게 생각하며,  
-확장성과 유지보수성을 고려한 백엔드 개발자로 성장하고 있습니다.  
+✔ **단순한 기능 구현을 넘어, 유지보수성과 확장성을 고려한 설계를 고민합니다.**  
+
+✔ **데이터를 효율적으로 처리하고, API 성능을 최적화하는 과정에서 가장 큰 보람을 느낍니다.**  
+
+✔ **보안 강화를 위한 SQL Injection 방어, CAPTCHA 적용 경험을 실무에서 적용해왔습니다.**  
+
+✔ **클린 코드와 구조적인 설계를 통해, 협업과 유지보수가 쉬운 백엔드 시스템을 구축하는 것을 목표로 합니다.**
+
+빠르게 변하는 기술 속에서 **더 좋은 코드, 더 나은 시스템을 만들기 위해** 고민하며 성장합니다.
+<br>
+새로운 기술을 배우는 것을 즐기며, 다양한 환경에서도 빠르게 적응하여 최적의 솔루션을 찾아가는 **소프트웨어 엔지니어**입니다. 🚀
 
 ---
+
 ## 💡 핵심 역량
-1. **API 설계 및 백엔드 구축**  
-   - 트래블포트 API 기반 항공권 예약 시스템 및 RESTful API 개발  
-   - Flask + MySQL을 활용한 백엔드 시스템 구축 및 배포 (OwnerFlow)  
-2. **보안 강화 및 최적화 경험**  
-   - SQL Injection 방어, 입력값 검증, CAPTCHA 적용 (OwnerFlow)  
-   - API 성능 최적화 및 데이터 처리 속도 개선  
-3. **실시간 데이터 처리 및 자동화 시스템 구축**  
-   - 외부 항공사 데이터 스크래핑 및 자동 예약 시스템 구축  
-   - WebSocket을 활용한 실시간 채팅 및 투표 기능 구현 (Fately)  
-4. **알림 및 메시징 시스템 개발**  
-   - 알리고 API를 활용한 실시간 알림 및 자동화 메시지 전송 (OwnerFlow)  
-5. **클라우드 기반 서비스 운영 및 배포**  
-   - AWS, Cloudtype을 활용한 서버 배포 및 운영  
-6. **AI 및 데이터 분석 API 연동**  
-   - ChatGPT API 및 Azure Face API를 활용한 데이터 분석 및 자연어 처리 (Fately)  
-7. **앱 및 외부 시스템 연동**  
-   - Cafe24 API 연동을 통한 앱 개발 및 기능 확장 (OwnerFlow)  
+✅ **API 설계 및 백엔드 구축** – RESTful API 개발, 트래블포트 API 연동, Flask & MySQL 활용  
+
+✅ **보안 강화 및 최적화** – SQL Injection 방어, 데이터 검증, API 성능 개선  
+
+✅ **실시간 데이터 처리** – 항공사 데이터 스크래핑, WebSocket 기반 실시간 기능 구현  
+
+✅ **알림 및 자동화 시스템** – 알리고 API 활용한 실시간 알림 및 메시지 자동화  
+
+✅ **클라우드 서비스 운영** – AWS, Cloudtype 기반 서버 배포 및 운영  
+
+✅ **AI API 및 외부 시스템 연동** – ChatGPT API, Azure Face API, Cafe24 API 연동  
 
 ---
 
 ## 📌 경력
-### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/e9pay.png" alt="e9pay 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> ㈜이나인페이 | 전산개발팀 (2024.01 ~ 2025.02)  
-- **트래블포트 API 기반 항공권 예약, 발권, 환불, 변경 시스템 개발** → 응답 속도 30% 개선  
-- **ZA(스카이앙코르) 항공사 시스템 구축** → 예약 자동화로 월간 예약 건수 20% 증가  
-- **트래블포트 API 최신 버전(v50) 업그레이드** 및 성능 최적화  
-- **카드 결제 시스템 추가** → 결제 옵션 다양화 및 사용자 편의성 향상  
+### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/e9pay.png" alt="e9pay 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> ㈜이나인페이 | 전산개발팀 (2024.01 ~ 2025.03)  
+- **트래블포트 API 기반 항공권 예약, 발권, 환불, 변경 시스템 개발** → **응답 속도 30% 개선**  
+- **ZA(스카이앙코르 항공사 시스템 구축 및 실시간 예약 자동화** → **월간 예약 건수 20% 증가**  
+- **트래블포트 API 최신 버전(v50) 업그레이드 및 성능 최적화**  
+- **카드 결제 시스템 추가** → **결제 옵션 다양화 및 사용자 편의성 향상**  
+<hr style="border: 0.5px solid #d3d3d3;">
+
+### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/대화물류.png" alt="대화물류 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> 대화물류㈜ | 운영2본부 (2022.04 ~ 2023.02)  
+- **VBA를 활용한 쿠팡 주문 리스트 자동화 처리** → **업무 속도 80% 향상, 오발송 감소**  
+- **반복 업무 자동화를 통해 데이터 입력 및 검증 속도 개선, 오류 최소화**  
+- **자동화된 주문 관리 시스템 구축** → **주문량 증가 및 배송 프로세스 최적화**  
 
 ---
 
@@ -62,79 +72,85 @@
 
 ### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/ownerflow.jpg" alt="ownerflow 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **OwnerFlow** (2024.10 ~ 2025.01)  
 **작업 요청 및 진행 관리 플랫폼**  
+
 - **기술 스택:** Flask, MySQL, Cloudtype, Cafe24 API, 알리고  
-- **주요 역할 및 기여도:** 백엔드 개발(100%), API 연동 및 보안 강화  
+- **역할 및 기여도:** 백엔드 개발(100%), API 연동 및 보안 강화  
 - **배포:** <a href="https://ownerflow-admin.com" target="_blank">
     <img src="https://img.shields.io/badge/OwnerFlow-%23007BFF.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
-- **주요 기능:**  
-  - Flask 기반 RESTful API 구축 및 MySQL 연동  
-  - Cafe24 API 연동 → 앱을 통한 사용자 접근 가능  
-  - 알리고 API 활용 → 실시간 알림톡 및 SMS 자동 발송  
-  - **SQL Injection 공격 대응** → CAPTCHA 적용 및 입력 검증 강화  
-- **성과:**  
-  - Flask와 MySQL 최적화로 데이터 처리 성능 40% 개선  
-  - 알리고 API 도입으로 고객 커뮤니케이션 응답 시간 30% 단축  
-  - SQL Injection 대응을 위한 CAPTCHA 적용으로 보안 취약점 사전 방지  
-  - Cafe24 API 연동으로 사용자 접근성 35% 향상  
-  - Cloudtype 기반 배포로 서비스 가동 시간 99.5% 유지  
-- **비즈니스 성과:**  
-  - 내부 작업 요청 및 진행 관리 효율성 개선으로 작업 처리 시간 단축  
-  - 실시간 알림 시스템 구축으로 요청 승인 및 변경 사항 전달 속도 향상
+
+#### 🔹 **주요 기능**
+- Flask 기반 RESTful API 구축 및 MySQL 연동  
+- **Cafe24 API 연동** → 앱을 통한 사용자 접근 가능  
+- **알리고 API 활용** → 실시간 알림톡 및 SMS 자동 발송  
+- **SQL Injection 공격 대응** → CAPTCHA 적용 및 입력 검증 강화  
+- **결제금액 일부 마일리지 적립 기능 추가** → 고객 재방문율 증가  
+
+#### 🔹 **성과 및 개선 효과**
+- **Flask와 MySQL 최적화** → 데이터 처리 성능 **40% 개선**  
+- **알리고 API 도입** → 고객 커뮤니케이션 응답 속도 **30% 단축**  
+- **SQL Injection 대응** → CAPTCHA 적용으로 보안 취약점 사전 방지  
+- **Cafe24 API 연동** → 사용자 접근성 **35% 향상**  
+- **Cloudtype 기반 배포** → 서비스 가동 시간 **99.5% 유지**  
+
+#### 🔹 **비즈니스 성과**
+- 내부 작업 요청 및 진행 관리 효율화 → **작업 처리 시간 단축**  
+- 실시간 알림 시스템 도입 → **요청 승인 및 변경 사항 전달 속도 향상**  
+- **마일리지 적립 기능 추가** → 재방문율 증가 및 **반복 요청 고객 수 20% 증가**  
+
 <!-- - **배포:** [OwnerFlow](https://ownerflow-admin.com)   -->
 <hr style="border: 0.5px solid #d3d3d3;">
 
 ### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/fately.png" alt="fately 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> Fately (2024.06 ~ 2024.09)  
 **AI 기반 사주 분석 및 실시간 밸런스 게임 서비스**  
 - **주요 기술:** React, JavaScript, Java, MySQL, ChatGPT API, Azure API  
+- **주요 역할:** 프론트엔드 & 백엔드 개발 100% 담당  
 - **배포:** <a href="https://fately.co.kr/" target="_blank">
     <img src="https://img.shields.io/badge/Fately-FFA6C9.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
-- **주요 역할:** 프론트엔드 & 백엔드 개발 100% 담당
-- **주요 기능:**  
-  - AI 기반 사주 분석 (ChatGPT API 활용)  
-  - AI 페이스 진단 서비스 (Azure Face API 적용)  
-  - 실시간 밸런스 게임 (WebSocket을 활용한 투표 기능)  
-- **성과:**  
-  - 일 평균 사용자 30명 이상 유입  
-  - AI 분석을 통한 사용자 참여율 증가  
-  - WebSocket 기반 실시간 서비스 제공으로 유저 경험 향상  
-<hr style="border: 0.5px solid #d3d3d3;">
+
+#### 🔹 **주요 기능**
+- AI 기반 사주 분석 (ChatGPT API 활용)  
+- AI 페이스 진단 서비스 (Azure Face API 적용)  
+- 실시간 밸런스 게임 (WebSocket을 활용한 투표 기능)  
+
+#### 🔹 **성과 및 개선 효과**
+- **일 평균 사용자 30명 이상 유입** → 서비스 론칭 후 유저 수 지속 증가  
+- **AI 분석 기반 맞춤 피드백 제공** → 사용자 참여율 **40% 향상**  
+- **WebSocket 기반 실시간 서비스 제공** → 응답 속도 개선 및 유저 경험 강화  
+- **유저 피드백 반영 후 재방문율 25% 증가**  
+<hr style="border: 0.5px solid #d3d3d3;">  
 
 ### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/TEAM.png" alt="teamPlus 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> TeamPlus (2023.09 ~ 2023.11)  
 **팀원 간 협업을 위한 프로젝트 관리 시스템**  
-- **주요 기술:** Java, JavaScript, Kakao API, REST API  
-- **주요 역할:** 팀장 (6명 팀 구성, 프로젝트 기획 및 관리)
-- **주요 기능:**  
-  - 회원 관리 및 SNS 로그인 기능 개발  
-  - 팀 프로젝트 관리 및 역할(Role) 기반 접근 권한 설정  
-  - 개인별 TODO 관리 및 실시간 작업 현황 공유 기능 개발  
-- **성과:**  
-  - 프로젝트 기획부터 개발 완료까지 팀장 역할 수행 → 팀 일정 조율 및 목표 달성율 95% 유지
-  - Git을 활용한 협업 프로세스 정리 및 코드 리뷰 진행 → 팀 코드 품질 30% 향상 및 버그 발생률 감소
-  - 팀원들의 작업 효율성을 높이기 위한 역할 기반 기능 설계 → 작업 속도 20% 개선 및 협업 원활화 
-<hr style="border: 0.5px solid #d3d3d3;">
+- **주요 기술:** Java, Spring boot, JavaScript, Kakao API, REST API  
+- **주요 역할:** **팀장** (6명 팀 구성, 프로젝트 기획 및 관리)  
+
+#### 🔹 **주요 기능**
+- 회원 관리 및 SNS 로그인 기능 개발  
+- 팀 프로젝트 관리 및 역할(Role) 기반 접근 권한 설정  
+- 개인별 TODO 관리 및 실시간 작업 현황 공유 기능 개발  
+
+#### 🔹 **성과 및 개선 효과**
+- **프로젝트 기획부터 개발 완료까지 팀장 역할 수행** → **팀 일정 조율 및 목표 달성율 95% 유지**  
+- **Git을 활용한 협업 프로세스 정리 및 코드 리뷰 진행** → 코드 품질 **30% 향상** 및 버그 발생률 감소  
+- **역할 기반 기능 설계** → 작업 속도 **20% 개선** 및 협업 효율 증가  
+- **팀 커뮤니케이션 원활화** → 회의 시간 단축 및 개발 프로세스 최적화  
+<hr style="border: 0.5px solid #d3d3d3;">  
 
 ### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/검색로고.png" alt="seekseat 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> SeekSeat - inGangnam (2023.08 ~ 2023.09)  
 **강남 인근 레스토랑 예약 서비스**  
 - **주요 기술:** Java, JSP, Kakao API, SQL  
-- **주요 역할:** 백엔드 개발 (팀원 5명) 
-- **주요 기능:**  
-  - Kakao API를 활용한 강남 지역 레스토랑 검색 기능 구현 
-  - 사업자 회원 매장 등록 및 메뉴 등록 기능 개발  
-  - 일반 회원을 위한 맛집 공유 커뮤니티 기능 추가
-- **성과:**  
-  - 프로젝트 방향성에 맞는 Database 구축 → 데이터 처리 속도 35% 개선 및 확장성 강화
-  - 회원 커뮤니티 및 1:1 문의 시스템 개발
-  - 매장 리스트 및 상세 페이지 구현으로 사용자 편의성 증대 → 검색 시간 20% 단축 및 사용자 만족도 향상
+- **주요 역할:** 백엔드 개발 (팀원 5명)  
 
----
+#### 🔹 **주요 기능**
+- Kakao API를 활용한 강남 지역 레스토랑 검색 기능 구현  
+- 사업자 회원 매장 등록 및 메뉴 등록 기능 개발  
+- 일반 회원을 위한 맛집 공유 커뮤니티 기능 추가  
 
-## 🛠 기술 스택
-| **구분**  | **기술 스택**  |
-|----------|-------------|
-| **Backend** | Java, Spring Boot, Flask, Python, MySQL, Oracle |
-| **Frontend** | HTML, CSS, JavaScript, React |
-| **DevOps** | AWS, Cloudtype, Docker, Git |
-| **ETC** | RESTful API, ChatGPT API, Kakao API, 알리고 API, Cafe24 API |
+#### 🔹 **성과 및 개선 효과**
+- **Database 구조 최적화** → 데이터 처리 속도 **35% 개선** 및 확장성 강화  
+- **검색 최적화 기능 추가** → 유저 검색 시간 **20% 단축**, 사용자 만족도 증가  
+- **관리자 기능 개발** → 운영 효율 **30% 향상**, 매장 관리 간소화  
+- **커뮤니티 및 1:1 문의 시스템 개발** → 사용자 피드백 반영 및 참여율 증가  
 
 ---
 
