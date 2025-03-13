@@ -72,7 +72,7 @@
 
 ## 💼 프로젝트 이력
 
-### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/ownerflow.jpg" alt="ownerflow 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **OwnerFlow** (2024.10 ~ 2025.01) - 외주프로젝트
+### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/ownerflow.jpg" alt="ownerflow 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **OwnerFlow** (2024.10 ~ 2025.03) - 외주프로젝트
 **작업 요청 및 진행 관리 플랫폼**  
 
 - **기술 스택:** Flask, MySQL, Cloudtype, Cafe24 API, 알리고  
