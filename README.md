@@ -11,7 +11,7 @@
       <p>📧 <b>Email:</b> <a href="mailto:seung0476@gmail.com">seung0476@gmail.com</a></p>
       <p>📂 <b>Portfolio:</b> <a href="https://hongseunghee25.github.io" target="_blank">hongseunghee25.github.io</a></p>
       <p>🐱 <b>GitHub:</b> <a href="https://github.com/HongSeungHee25" target="_blank">github.com/HongSeungHee25</a></p>
-      <p>📄 <b>Resume:</b> <a href="https://github.com/HongSeungHee25/My-RESUME/blob/master/README.pdf?raw=true" target="_blank">이력서 다운로드 (PDF)</a></p>
+      <p>📄 <b>Resume:</b> <a href="https://github.com/HongSeungHee25/My-RESUME/blob/master/HongSeungHee.pdf?raw=true" target="_blank">이력서 다운로드 (PDF)</a></p>
     </td>
   </tr>
 </table>
