@@ -54,7 +54,7 @@
 ---
 
 ## 📌 경력
-### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/e9pay.png" alt="e9pay 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> ㈜이나인페이 | 전산개발팀 (2024.01 ~ 2025.03)  
+### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/e9pay.png" alt="e9pay 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> ㈜이나인페이 | 전산개발팀 (2024.01 ~ 2025.03) 
 - **트래블포트 API 기반 항공권 예약, 발권, 환불, 변경 시스템 개발** → **응답 속도 30% 개선**  
 - **ZA(스카이앙코르 항공사 시스템 구축 및 실시간 예약 자동화** → **월간 예약 건수 20% 증가**  
 - **트래블포트 API 최신 버전(v50) 업그레이드 및 성능 최적화**  
@@ -70,7 +70,7 @@
 
 ## 💼 프로젝트 이력
 
-### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/ownerflow.jpg" alt="ownerflow 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **OwnerFlow** (2024.10 ~ 2025.01)  
+### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/ownerflow.jpg" alt="ownerflow 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **OwnerFlow** (2024.10 ~ 2025.01) - 외주프로젝트
 **작업 요청 및 진행 관리 플랫폼**  
 
 - **기술 스택:** Flask, MySQL, Cloudtype, Cafe24 API, 알리고  
@@ -100,10 +100,10 @@
 <!-- - **배포:** [OwnerFlow](https://ownerflow-admin.com)   -->
 <hr style="border: 0.5px solid #d3d3d3;">
 
-### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/fately.png" alt="fately 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> Fately (2024.06 ~ 2024.09)  
+### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/fately.png" alt="fately 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> Fately (2024.06 ~ 2024.09) - 개인프로젝트
 **AI 기반 사주 분석 및 실시간 밸런스 게임 서비스**  
 - **주요 기술:** React, JavaScript, Java, MySQL, ChatGPT API, Azure API  
-- **주요 역할:** 프론트엔드 & 백엔드 개발 100% 담당  
+- **역할 및 기여도:** 프론트엔드 & 백엔드 개발 100% 담당  
 - **배포:** <a href="https://fately.co.kr/" target="_blank">
     <img src="https://img.shields.io/badge/Fately-FFA6C9.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
 
@@ -119,39 +119,26 @@
 - **유저 피드백 반영 후 재방문율 25% 증가**  
 <hr style="border: 0.5px solid #d3d3d3;">  
 
-### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/TEAM.png" alt="teamPlus 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> TeamPlus (2023.09 ~ 2023.11)  
+### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/TEAM.png" alt="teamPlus 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> TeamPlus (2023.09 ~ 2023.11) - 팀프로젝트  
 **팀원 간 협업을 위한 프로젝트 관리 시스템**  
-- **주요 기술:** Java, Spring boot, JavaScript, Kakao API, REST API  
+- **주요 기술:** Java, Spring Boot, JavaScript, Kakao API, REST API  
+- **역할 및 기여도:** 프론트엔드 60% 담당 & 백엔드 개발 60% 담당  
 - **주요 역할:** **팀장** (6명 팀 구성, 프로젝트 기획 및 관리)  
 
-#### 🔹 **주요 기능**
+#### 🔹 **주요 기능**  
 - 회원 관리 및 SNS 로그인 기능 개발  
 - 팀 프로젝트 관리 및 역할(Role) 기반 접근 권한 설정  
 - 개인별 TODO 관리 및 실시간 작업 현황 공유 기능 개발  
+- **Spring Scheduler를 활용한 자동 TODO 상태 전환 기능 구현**  
 
-#### 🔹 **성과 및 개선 효과**
+#### 🔹 **성과 및 개선 효과**  
 - **프로젝트 기획부터 개발 완료까지 팀장 역할 수행** → **팀 일정 조율 및 목표 달성율 95% 유지**  
 - **Git을 활용한 협업 프로세스 정리 및 코드 리뷰 진행** → 코드 품질 **30% 향상** 및 버그 발생률 감소  
 - **역할 기반 기능 설계** → 작업 속도 **20% 개선** 및 협업 효율 증가  
+- **Spring Scheduler를 활용한 자동 TODO 상태 전환 기능 구현** → **작업 누락 방지 및 업무 자동화로 팀원들의 관리 부담 감소**  
 - **팀 커뮤니케이션 원활화** → 회의 시간 단축 및 개발 프로세스 최적화  
-<hr style="border: 0.5px solid #d3d3d3;">  
-
-### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/검색로고.png" alt="seekseat 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> SeekSeat - inGangnam (2023.08 ~ 2023.09)  
-**강남 인근 레스토랑 예약 서비스**  
-- **주요 기술:** Java, JSP, Kakao API, SQL  
-- **주요 역할:** 백엔드 개발 (팀원 5명)  
-
-#### 🔹 **주요 기능**
-- Kakao API를 활용한 강남 지역 레스토랑 검색 기능 구현  
-- 사업자 회원 매장 등록 및 메뉴 등록 기능 개발  
-- 일반 회원을 위한 맛집 공유 커뮤니티 기능 추가  
-
-#### 🔹 **성과 및 개선 효과**
-- **Database 구조 최적화** → 데이터 처리 속도 **35% 개선** 및 확장성 강화  
-- **검색 최적화 기능 추가** → 유저 검색 시간 **20% 단축**, 사용자 만족도 증가  
-- **관리자 기능 개발** → 운영 효율 **30% 향상**, 매장 관리 간소화  
-- **커뮤니티 및 1:1 문의 시스템 개발** → 사용자 피드백 반영 및 참여율 증가  
-
+<br>
+<br>
 ---
 
 ## 📚 학력 및 교육
