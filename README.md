@@ -117,7 +117,7 @@
 **상품 관리 및 콘텐츠 관리 플랫폼**  
 
 - **기술 스택:** Flask, MySQL, JWT, React, CORS
-- **역할:** 풀스택 개발자 (백엔드 API 설계/구현 및 프론트엔드 연동)
+- **역할 및 기여도:** 프론트엔드 & 백엔드 개발 100% 담당
 - **배포:** <a href="https://jeros.kr" target="_blank">
     <img src="https://img.shields.io/badge/Jeros-%FF8C00.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
 
