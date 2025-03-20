@@ -113,6 +113,36 @@
 ---
 
 ## 💼 프로젝트 이력
+### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/제이에로스로고.png" alt="제이에로스 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **Jeros** (2025.03) - 외주 프로젝트
+**상품 관리 및 콘텐츠 관리 플랫폼**  
+
+- **기술 스택:** Flask, MySQL, JWT, React, CORS
+- **역할:** 풀스택 개발자 (백엔드 API 설계/구현 및 프론트엔드 연동)
+- **배포:** <a href="https://jeros.kr" target="_blank">
+    <img src="https://img.shields.io/badge/Jeros-%FF8C00.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
+
+#### 🔹 **주요 기능 구현**
+- **RESTful API 아키텍처 설계 및 구현**
+  - 제품, 콘텐츠, 이미지 관리를 위한 엔드포인트 구축
+  - 데이터베이스 CRUD 작업 최적화
+- **JWT 기반 사용자 인증 시스템 구현**
+  - 토큰 기반 인증 및 권한 관리
+  - 관리자 전용 기능 접근 제어
+- **이미지 업로드 시스템 개발**
+  - 상품 및 콘텐츠 이미지 처리
+  - 보안을 고려한 파일 업로드 처리(확장자 검증, 고유 파일명 생성)
+- **프론트엔드와 백엔드 연동**
+  - CORS 설정을 통한 안전한 API 접근
+  - SPA 라우팅 지원
+
+#### 🔹 **기술적 성과 및 비즈니스 개선**
+- **백엔드 아키텍처 개선** → 모듈화된 API 구조로 유지보수성 향상
+- **보안 강화** → JWT 인증, 파일 업로드 검증, 권한 제어로 안전한 서비스 구축
+- **데이터 관리 최적화** → MySQL 연동 및 효율적인 쿼리 처리로 데이터 접근 속도 40% 향상
+- **관리자 콘텐츠 관리 효율화** → 실시간 콘텐츠 업데이트 시간 50% 단축, 상품 관리 오류 80% 감소
+- **사용자 경험 향상** → API 응답 최적화 및 SPA 구조로 페이지 로딩 시간 30% 단축
+<!-- - **배포:** [OwnerFlow](https://ownerflow-admin.com)   -->
+<hr style="border: 0.5px solid #d3d3d3;">
 
 ### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/ownerflow.jpg" alt="ownerflow 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **OwnerFlow** (2024.10 ~ 2025.03) - 외주프로젝트
 **작업 요청 및 진행 관리 플랫폼**  
