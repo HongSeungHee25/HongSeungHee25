@@ -113,6 +113,36 @@
 ---
 
 ## 💼 프로젝트 이력
+### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/ownerflow.jpg" alt="ownerflow 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **OwnerFlow** (2024.10 ~ 2025.03) - 외주프로젝트
+**작업 요청 및 진행 관리 플랫폼**  
+
+- **기술 스택:** Flask, MySQL, Cloudtype, Cafe24 API, 알리고  
+- **역할 및 기여도:** 백엔드 개발(100%), API 연동 및 보안 강화 ,카페24 앱 개발 
+- **배포:** <a href="https://ownerflow-admin.com" target="_blank">
+    <img src="https://img.shields.io/badge/OwnerFlow-%23007BFF.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
+
+#### 🔹 **주요 기능**
+- Flask 기반 RESTful API 구축 및 MySQL 연동  
+- **Cafe24 API 연동** → 앱을 통한 사용자 접근 가능  
+- **알리고 API 활용** → 실시간 알림톡 및 SMS 자동 발송  
+- **SQL Injection 공격 대응** → CAPTCHA 적용 및 입력 검증 강화  
+- **Flask Scheduler를 활용하여 결제금액 일부 마일리지 자동 적립**
+
+#### 🔹 **성과 및 개선 효과**
+- **Flask와 MySQL 최적화** → 데이터 처리 성능 **40% 개선**, 응답 속도 향상  
+- **알리고 API 도입** → 고객 커뮤니케이션 응답 속도 **30% 단축**, 빠른 고객 응대 가능  
+- **SQL Injection 대응** → CAPTCHA 적용 및 입력 검증 강화로 **보안 취약점 사전 방지**  
+- **Cafe24 API 연동** → 사용자 접근성 **35% 향상**, 쇼핑몰과의 연동성 개선  
+- **Cloudtype 기반 배포** → **서비스 가동 시간 99.5% 유지**, 안정적인 운영 보장  
+
+#### 🔹 **비즈니스 성과**
+- **내부 작업 요청 및 진행 관리 효율화** → **작업 처리 시간 단축 및 운영 비용 절감**  
+- **실시간 알림 시스템 도입** → **요청 승인 및 변경 사항 전달 속도 향상 → 고객 만족도 증가**  
+- **마일리지 적립** → **고객 재방문율 25% 증가, 반복 요청 고객 수 20% 증가 → 사용자 충성도 강화**  
+
+<!-- - **배포:** [OwnerFlow](https://ownerflow-admin.com)   -->
+<hr style="border: 0.5px solid #d3d3d3;">
+
 ### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/제이에로스로고.png" alt="제이에로스 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **Jeros** (2025.03) - 외주 프로젝트
 **상품 관리 및 콘텐츠 관리 플랫폼**  
 
@@ -140,36 +170,6 @@
 - **보안 강화** → JWT 인증, 파일 업로드 검증, 권한 제어로 안전한 서비스 구축
 - **데이터 관리 최적화** → MySQL 연동 및 효율적인 쿼리 처리로 데이터 접근 속도 40% 향상
 - **관리자 콘텐츠 관리 효율화** → 실시간 콘텐츠 업데이트 시간 50% 단축, 상품 관리 오류 80% 감소
-<!-- - **배포:** [OwnerFlow](https://ownerflow-admin.com)   -->
-<hr style="border: 0.5px solid #d3d3d3;">
-
-### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/ownerflow.jpg" alt="ownerflow 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> **OwnerFlow** (2024.10 ~ 2025.03) - 외주프로젝트
-**작업 요청 및 진행 관리 플랫폼**  
-
-- **기술 스택:** Flask, MySQL, Cloudtype, Cafe24 API, 알리고  
-- **역할 및 기여도:** 백엔드 개발(100%), API 연동 및 보안 강화  
-- **배포:** <a href="https://ownerflow-admin.com" target="_blank">
-    <img src="https://img.shields.io/badge/OwnerFlow-%23007BFF.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
-
-#### 🔹 **주요 기능**
-- Flask 기반 RESTful API 구축 및 MySQL 연동  
-- **Cafe24 API 연동** → 앱을 통한 사용자 접근 가능  
-- **알리고 API 활용** → 실시간 알림톡 및 SMS 자동 발송  
-- **SQL Injection 공격 대응** → CAPTCHA 적용 및 입력 검증 강화  
-- **Flask Scheduler를 활용하여 결제금액 일부 마일리지 자동 적립**
-
-#### 🔹 **성과 및 개선 효과**
-- **Flask와 MySQL 최적화** → 데이터 처리 성능 **40% 개선**, 응답 속도 향상  
-- **알리고 API 도입** → 고객 커뮤니케이션 응답 속도 **30% 단축**, 빠른 고객 응대 가능  
-- **SQL Injection 대응** → CAPTCHA 적용 및 입력 검증 강화로 **보안 취약점 사전 방지**  
-- **Cafe24 API 연동** → 사용자 접근성 **35% 향상**, 쇼핑몰과의 연동성 개선  
-- **Cloudtype 기반 배포** → **서비스 가동 시간 99.5% 유지**, 안정적인 운영 보장  
-
-#### 🔹 **비즈니스 성과**
-- **내부 작업 요청 및 진행 관리 효율화** → **작업 처리 시간 단축 및 운영 비용 절감**  
-- **실시간 알림 시스템 도입** → **요청 승인 및 변경 사항 전달 속도 향상 → 고객 만족도 증가**  
-- **마일리지 적립** → **고객 재방문율 25% 증가, 반복 요청 고객 수 20% 증가 → 사용자 충성도 강화**  
-
 <!-- - **배포:** [OwnerFlow](https://ownerflow-admin.com)   -->
 <hr style="border: 0.5px solid #d3d3d3;">
 
