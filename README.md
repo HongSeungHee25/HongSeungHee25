@@ -7,7 +7,7 @@
       <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/홍승희.jpg" alt="프로필 이미지" width="160" style="border-radius: 50%;">
     </td>
     <td>
-      <h2>홍승희 | Backend Developer</h2>
+      <h2>홍승희 | Full-stack Developer</h2>
       <p>📧 <b>Email:</b> <a href="mailto:seung0476@gmail.com">seung0476@gmail.com</a></p>
       <p>📂 <b>Portfolio:</b> <a href="https://hongseunghee25.github.io" target="_blank">hongseunghee25.github.io</a></p>
       <p>🐱 <b>GitHub:</b> <a href="https://github.com/HongSeungHee25" target="_blank">github.com/HongSeungHee25</a></p>
@@ -19,35 +19,29 @@
 ---
 
 ## 🚀 About Me  
-"**확장성과 유지보수를 고려한 최적의 백엔드 시스템을 설계하는 백엔드 개발자 홍승희입니다.**"
+**"확장성과 사용자 경험을 함께 고려한 웹 서비스를 설계하는 풀스택 개발자 홍승희입니다."**
 
-항공권 예약 시스템 개발을 하며 **API 성능 최적화**의 중요성을 깨달았고,  
-외부 항공사 데이터를 실시간으로 수집·처리하며 **대량 트래픽을 다루는 경험**을 쌓았습니다.  
+항공권 예약 시스템과 쇼핑몰 큐레이션 앱을 개발하며  
+**백엔드 성능 최적화**와 함께 **프론트엔드 사용자 흐름 개선**까지 직접 구현해왔습니다.  
 
-✔ **단순한 기능 구현이 아닌, 장기적인 유지보수를 고려한 설계를 중요하게 생각합니다.**  
-✔ **데이터를 효율적으로 처리하고 API 성능을 최적화하는 과정에서 가장 큰 보람을 느낍니다.**  
+✔ **단순한 기능 구현을 넘어서, 전체 시스템의 구조와 사용자 경험까지 고려한 개발을 지향합니다.**  
+✔ **데이터를 효율적으로 처리하고, 프론트-백 간의 연결을 설계하는 과정에서 가장 큰 보람을 느낍니다.**  
 ✔ **빠르게 변하는 기술 속에서 최적의 솔루션을 고민하며, 새로운 기술을 배우고 적용하는 것을 즐깁니다.**  
-✔ **협업을 중시하며, 클린 코드와 구조적인 설계를 통해 팀원들과 함께 성장하는 개발자가 되고자 합니다.**  
+✔ **협업과 문서화를 중시하며, 클린 코드와 직관적인 UI 구현으로 팀원과 사용자 모두를 만족시키고자 합니다.**  
 
-🚀 **"기능 구현을 넘어, 확장성과 유지보수를 고려한 설계"**  
-🚀 **"비즈니스 가치를 높이는 백엔드 개발자"**  
-
-기능을 만드는 것에서 멈추지 않고, **서비스의 가치를 극대화하는 백엔드 개발자**가 되고자 합니다.
+🚀 **"기능 구현을 넘어, 전체 흐름을 설계하는 개발자"**  
+🚀 **"사용자 경험과 기술적 완성도를 동시에 고민하는 풀스택 개발자"**
 
 ---
 
 ## 💡 핵심 역량
-✅ **API 설계 및 백엔드 구축** – RESTful API 개발, 트래블포트 API 연동, Flask & MySQL 활용  
 
-✅ **보안 강화 및 최적화** – SQL Injection 방어, 데이터 검증, API 성능 개선  
-
-✅ **실시간 데이터 처리** – 항공사 데이터 스크래핑, WebSocket 기반 실시간 기능 구현  
-
-✅ **알림 및 자동화 시스템** – 알리고 API 활용한 실시간 알림 및 메시지 자동화  
-
-✅ **클라우드 서비스 운영** – AWS, Cloudtype 기반 서버 배포 및 운영  
-
-✅ **AI API 및 외부 시스템 연동** – ChatGPT API, Azure Face API, Cafe24 API 연동  
+✅ **풀스택 웹 개발** – Flask & MySQL 기반 API 구축 + JavaScript/HTML/CSS로 사용자 인터페이스 구성  
+✅ **RESTful API 설계 및 최적화** – 트래블포트 API, Cafe24 API, ChatGPT API 등 다양한 외부 시스템 연동  
+✅ **보안 및 유지보수 고려** – SQL Injection 방어, CAPTCHA 적용, 입력 검증 로직 구축  
+✅ **실시간 기능 및 자동화 구현** – WebSocket 기반 기능, 알리고 API 연동 실시간 알림 시스템  
+✅ **클라우드 서비스 운영** – AWS 및 Cloudtype 기반 배포, 이미지 서버 연동 (GABIA)  
+✅ **큐레이션 위젯 개발** – iframe 없이 JS 한 줄로 삽입되는 쇼핑몰 큐레이션 모달 개발
 
 ---
 
@@ -58,7 +52,7 @@
 > **Travelport API**를 활용한 글로벌 항공 예약 서비스 제공. 
 
 - **기술 스택:** Java, SpringBoot, MySQL, Oracle, JavaScript, JSP, Travelport API, MyBatis  
-- **역할 및 기여도:** 백엔드 개발(100%), API 연동 및 성능 최적화  
+- **역할 및 기여도:** 백엔드 설계 및 개발 주도, 프론트 JSP 페이지 일부 구현, Travelport API 연동 및 성능 최적화  
 
 ### 🔹 주요 기능  
 - 트래블포트 API를 활용한 **항공권 예약, 발권, 환불, 변경** 유지보수  
@@ -117,7 +111,7 @@
 **작업 요청 및 진행 관리 플랫폼**  
 
 - **기술 스택:** Flask, MySQL, Cloudtype, Cafe24 API, 알리고  
-- **역할 및 기여도:** 백엔드 개발(100%), API 연동 및 보안 강화 ,카페24 앱 개발 
+- **역할 및 기여도:** 백엔드 개발(Flask 기반 API 및 DB 설계) 주도, 프론트엔드(UI 및 위젯 렌더링) 일부 구현 ,Cafe24 큐레이션 앱 개발 
 - **배포:** <a href="https://ownerflow-admin.com" target="_blank">
     <img src="https://img.shields.io/badge/OwnerFlow-%23007BFF.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
 
@@ -153,7 +147,7 @@
 **상품 관리 및 콘텐츠 관리 플랫폼**  
 
 - **기술 스택:** Flask, MySQL, JWT, React, CORS
-- **역할 및 기여도:** 프론트엔드 & 백엔드 개발 100% 담당
+- **역할 및 기여도:** 프론트엔드와 백엔드 전체 개발 100% 수행
 - **배포:** <a href="https://jeros.kr" target="_blank">
     <img src="https://img.shields.io/badge/Jeros-%FF8C00.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
 
@@ -182,7 +176,7 @@
 ### <img src="https://github.com/HongSeungHee25/My-RESUME/raw/master/images/fately.png" alt="fately 로고" width="24" style="vertical-align: middle; margin-right: 6px;"> Fately (2024.06 ~ 2024.09) - 개인프로젝트
 **AI 기반 사주 분석 및 실시간 밸런스 게임 서비스**  
 - **주요 기술:** React, JavaScript, Java, MySQL, ChatGPT API, Azure API  
-- **역할 및 기여도:** 프론트엔드 & 백엔드 개발 100% 담당  
+- **역할 및 기여도:** 프론트엔드와 백엔드 전체 개발 100% 수행
 - **배포:** <a href="https://fately.co.kr/" target="_blank">
     <img src="https://img.shields.io/badge/Fately-FFA6C9.svg?&style=for-the-badge&logo=safari&logoColor=white" style="vertical-align: middle;" alt="배포 링크"></a>
 
